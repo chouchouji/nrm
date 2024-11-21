@@ -41,6 +41,9 @@ $ nrm use cnpm  //switch registry to cnpm
 
 ## Usage
 
+> [!TIP]
+> The lowest node version is ***18*** from ***v1.3.2***.
+
 ```
 Usage: nrm [options] [command]
 
@@ -48,7 +51,7 @@ Usage: nrm [options] [command]
 
     ls                                    List all the registries
     current                               Show current registry name
-    use <registry>                        Change registry to registry
+    use [registry]                        Change registry to registry
     add <registry> <url> [home]           Add one custom registry
     login <registry> [value]              Set authorize information for a registry with a base64 encoded string or username and pasword
       -a  --always-auth                     Set is always auth
