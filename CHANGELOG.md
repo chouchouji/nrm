@@ -1,5 +1,11 @@
 # nrm
 
+## 1.4.1
+
+### Patch Changes
+
+- 6f54e36: Optimize package files Thanks @chouchouji
+
 ## 1.4.0
 
 ### Minor Changes
